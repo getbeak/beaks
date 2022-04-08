@@ -1,0 +1,28 @@
+{
+	"id": "request_000000CM0KXO0ZxZYKiC5Oozn193w",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/status/101"
+	],
+	"query": {},
+	"body": {
+		"type": "json",
+		"payload": {
+			"jsonentry_000000CM0KYiM1fR0Ug1uWkcggk52": {
+				"id": "jsonentry_000000CM0KYiM1fR0Ug1uWkcggk52",
+				"name": "<Root>",
+				"enabled": true,
+				"parentId": null,
+				"type": "string",
+				"value": [
+					"wow_such_deletion",
+					""
+				]
+			}
+		}
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

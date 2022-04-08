@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PKtUQLlGAfMwj3Z6EcVM",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/brotli"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

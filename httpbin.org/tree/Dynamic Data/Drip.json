@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QJzOlWK3VnCrXejrwTHE",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/drip"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

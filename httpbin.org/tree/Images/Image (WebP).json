@@ -1,0 +1,25 @@
+{
+	"id": "request_000000CM0RX1wVzXDaovxGfgbLhmC",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0RSUau9q5D6f3PkICTPnc": {
+			"name": "Accept",
+			"value": [
+				"image/*",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/image/webp"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

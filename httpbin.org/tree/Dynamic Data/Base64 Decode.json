@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PjuL0VUyrfwdy3sg2Mfg",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/base64/ey=="
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

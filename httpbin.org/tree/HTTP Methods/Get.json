@@ -1,0 +1,25 @@
+{
+	"id": "request_000000CLyGWIo0d94CnKqf8wezt1E",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/get"
+	],
+	"query": {
+		"query_000000CLyGYBSj37IGZw6GD5GWyxc": {
+			"name": "X-Test-Header",
+			"value": [
+				"Foo-Bar",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

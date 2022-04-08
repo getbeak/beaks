@@ -1,0 +1,24 @@
+{
+	"id": "request_000000CM0QsqykLCjENOl9IxRItUW",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0Qq5QOmerjHZcncOtzOs4": {
+			"name": "If-Modified-Since",
+			"value": [
+				"12"
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/cache/12"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

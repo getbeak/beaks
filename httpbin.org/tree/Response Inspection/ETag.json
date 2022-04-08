@@ -1,0 +1,24 @@
+{
+	"id": "request_000000CM0QuqUutzuTK9UqCOmoI1A",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0Qq5QOmerjHZcncOtzOs4": {
+			"name": "If-Match",
+			"value": [
+				"tests"
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/etag/test"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

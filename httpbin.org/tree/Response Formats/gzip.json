@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PRyfTSMLh9A0k0uYTnvs",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/gzip"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

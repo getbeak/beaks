@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QkfB9oO5uG4qC4aZKiDQ",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/user-agent"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

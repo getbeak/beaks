@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QMyg1MVpNDKy4zttCZ4C",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/links/5/10"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

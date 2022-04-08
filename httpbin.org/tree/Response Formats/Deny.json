@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0POsWlTLceYsQ6qRnFPYe",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/deny"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

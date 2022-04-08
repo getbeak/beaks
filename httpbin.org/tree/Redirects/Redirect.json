@@ -1,0 +1,25 @@
+{
+	"id": "request_000000CM0RiQkGeBX8ggwwtoyWa0m",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/redirect/9"
+	],
+	"query": {
+		"query_000000CM0RfsupNHZzvAmmrrv9gYq": {
+			"name": "url",
+			"value": [
+				"https://getbeak.app",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": true
+	}
+}

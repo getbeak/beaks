@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PVPOXrpwHDu3efHXd63s",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/robots.txt"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

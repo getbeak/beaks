@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PUdMMs5G14pezsALozy4",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/json"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

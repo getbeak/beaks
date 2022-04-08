@@ -1,0 +1,31 @@
+{
+	"id": "request_000000CM0QnXaxVkuaW3SdaRqcVQ8",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0Qq5QOmerjHZcncOtzOs4": {
+			"name": "If-Modified-Since",
+			"value": [
+				{
+					"type": "timestamp",
+					"payload": {
+						"type": "unix_s"
+					}
+				},
+				"",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/cache"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

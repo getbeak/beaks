@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0RkJOz49lCTICXxxa3fxA",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/relative-redirect/9"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": true
+	}
+}

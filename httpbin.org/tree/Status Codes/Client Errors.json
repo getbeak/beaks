@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PeaxDg3ADobLSLN5LybI",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/status/401"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

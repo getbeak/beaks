@@ -1,0 +1,33 @@
+{
+	"id": "request_000000CM0QfgNjPP8ntBzxpzCZDto",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0Qh7adG5Y91BJBauqD7VA": {
+			"name": "X-Example-Header",
+			"value": [
+				"123",
+				""
+			],
+			"enabled": true
+		},
+		"header_000000CM0QiEDAgJ5weiA7rwFw7Lk": {
+			"name": "User-Agent",
+			"value": [
+				"Not-Beak",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/headers"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

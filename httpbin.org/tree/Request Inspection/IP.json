@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QjmHWfoSSwqxRSAdYJXM",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/ip"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

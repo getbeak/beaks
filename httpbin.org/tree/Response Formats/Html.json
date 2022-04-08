@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PTdbHagfObSI9QRg4Ihk",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/html"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

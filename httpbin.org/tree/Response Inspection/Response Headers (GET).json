@@ -1,0 +1,25 @@
+{
+	"id": "request_000000CM0R0bKWIjXpq6jjE7LNsQa",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0R2GGKR3rXIP18deSyNCk": {
+			"name": "X-Test-Header",
+			"value": [
+				"Foo-Bar",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/response-headers"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

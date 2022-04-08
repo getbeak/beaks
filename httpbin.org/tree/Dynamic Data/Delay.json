@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PofPWcq1biWW0dsYrFom",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/delay/10"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

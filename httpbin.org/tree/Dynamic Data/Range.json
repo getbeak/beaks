@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QP53e47xnKFBridygGB6",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/range/69"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

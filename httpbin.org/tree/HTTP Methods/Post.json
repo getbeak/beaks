@@ -1,0 +1,37 @@
+{
+	"id": "request_000000CLyGcbwsjzTT83W1JAvQyLw",
+	"verb": "post",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/post"
+	],
+	"query": {
+		"query_000000CLyGYBSj37IGZw6GD5GWyxc": {
+			"name": "X-Test-Header",
+			"value": [
+				"Foo-Bar",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"body": {
+		"type": "json",
+		"payload": {
+			"jsonentry_000000CLyGe39mafsoG2pF46Z4rxI": {
+				"id": "jsonentry_000000CLyGe39mafsoG2pF46Z4rxI",
+				"name": "<Root>",
+				"enabled": true,
+				"parentId": null,
+				"type": "string",
+				"value": [
+					"Foo-Bar",
+					""
+				]
+			}
+		}
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"id": "request_000000CM0RAmeHOLMOuBONLvYrSEK",
+	"verb": "get",
+	"headers": {
+		"header_000000CM0R8gGegjDynHAadBTNl7Q": {
+			"name": "Cookie",
+			"value": [
+				"foo=bar;",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/cookies/delete"
+	],
+	"query": {
+		"query_000000CM0RC6zj6CoYs1DVHYSX3FQ": {
+			"name": "foo",
+			"value": [
+				"bar",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PmSARmOw0RSo85pjPG7z",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/bytes/420"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

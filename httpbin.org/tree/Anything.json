@@ -1,0 +1,60 @@
+{
+	"id": "request_000000CM0RM4aZuAilbmtxklC41se",
+	"verb": "post",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/anything"
+	],
+	"query": {},
+	"body": {
+		"type": "json",
+		"payload": {
+			"jsonentry_000000CM0RMjlIl6RqahoWiZdtpOC": {
+				"id": "jsonentry_000000CM0RMjlIl6RqahoWiZdtpOC",
+				"name": "<Root>",
+				"enabled": true,
+				"parentId": null,
+				"type": "array"
+			},
+			"jsonentry_000000CM0RNI4ZTDDkPTEzr5LlKJU": {
+				"id": "jsonentry_000000CM0RNI4ZTDDkPTEzr5LlKJU",
+				"parentId": "jsonentry_000000CM0RMjlIl6RqahoWiZdtpOC",
+				"type": "string",
+				"enabled": true,
+				"value": [
+					"Worakls"
+				]
+			},
+			"jsonentry_000000CM0RO46kSxu0YXdeeCXZQRB": {
+				"id": "jsonentry_000000CM0RO46kSxu0YXdeeCXZQRB",
+				"parentId": "jsonentry_000000CM0RMjlIl6RqahoWiZdtpOC",
+				"type": "string",
+				"enabled": true,
+				"value": [
+					"Taylor Swift"
+				]
+			},
+			"jsonentry_000000CM0ROVYZ2FijD9a1xPVSckk": {
+				"id": "jsonentry_000000CM0ROVYZ2FijD9a1xPVSckk",
+				"parentId": "jsonentry_000000CM0RMjlIl6RqahoWiZdtpOC",
+				"type": "string",
+				"enabled": true,
+				"value": [
+					"Maceo Plex"
+				]
+			},
+			"jsonentry_000000CM0ROq8vSiaGhc2JRJjNWVW": {
+				"id": "jsonentry_000000CM0ROq8vSiaGhc2JRJjNWVW",
+				"parentId": "jsonentry_000000CM0RMjlIl6RqahoWiZdtpOC",
+				"type": "string",
+				"enabled": true,
+				"value": [
+					"Township Rebellion"
+				]
+			}
+		}
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

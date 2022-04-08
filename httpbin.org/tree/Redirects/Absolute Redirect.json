@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0Ra1DlpizSF43o0qcbnZA",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/absolute-redirect/9"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": true
+	}
+}

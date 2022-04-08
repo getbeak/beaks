@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0PNDaxL1Ix6a8hQufeumm",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/deflate"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

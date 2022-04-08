@@ -1,0 +1,25 @@
+{
+	"id": "request_000000CM0REzPWnZdF7zpwnPjoqS8",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/cookies/set"
+	],
+	"query": {
+		"query_000000CM0RC6zj6CoYs1DVHYSX3FQ": {
+			"name": "foo",
+			"value": [
+				"bar",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": true
+	}
+}

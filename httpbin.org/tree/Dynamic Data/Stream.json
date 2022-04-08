@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QTjGi2e3MCfZoTL7Wqjw",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/stream/50"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

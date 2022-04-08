@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QQqquLHEfwgxMxTqF3XE",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/stream-bytes/69420"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "request_000000CM0QWAEhAj3Jo2FsfzQvRbc",
+	"verb": "get",
+	"headers": {},
+	"url": [
+		"https://httpbin.org/uuid"
+	],
+	"query": {},
+	"body": {
+		"type": "text",
+		"payload": ""
+	},
+	"options": {
+		"followRedirects": false
+	}
+}

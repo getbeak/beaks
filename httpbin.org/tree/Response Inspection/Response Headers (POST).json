@@ -1,0 +1,37 @@
+{
+	"id": "request_000000CM0R3hTEHkGsQOKMOa6cGno",
+	"verb": "post",
+	"headers": {
+		"header_000000CM0R2GGKR3rXIP18deSyNCk": {
+			"name": "X-Test-Header",
+			"value": [
+				"Foo-Bar",
+				""
+			],
+			"enabled": true
+		}
+	},
+	"url": [
+		"https://httpbin.org/response-headers"
+	],
+	"query": {},
+	"body": {
+		"type": "json",
+		"payload": {
+			"jsonentry_000000CM0R4o5lhxog3vBIfbWLGeO": {
+				"id": "jsonentry_000000CM0R4o5lhxog3vBIfbWLGeO",
+				"name": "<Root>",
+				"enabled": true,
+				"parentId": null,
+				"type": "string",
+				"value": [
+					"Foo-Bar",
+					""
+				]
+			}
+		}
+	},
+	"options": {
+		"followRedirects": false
+	}
+}
